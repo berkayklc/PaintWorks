@@ -1,0 +1,11 @@
+C:\Users\klcbe\source\repos\Case_1\Case_1\bin\Debug\Case_1.exe.config
+C:\Users\klcbe\source\repos\Case_1\Case_1\bin\Debug\Case_1.exe
+C:\Users\klcbe\source\repos\Case_1\Case_1\bin\Debug\Case_1.pdb
+C:\Users\klcbe\source\repos\Case_1\Case_1\obj\Debug\Case_1.csproj.AssemblyReference.cache
+C:\Users\klcbe\source\repos\Case_1\Case_1\obj\Debug\Case_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\klcbe\source\repos\Case_1\Case_1\obj\Debug\Case_1.Form1.resources
+C:\Users\klcbe\source\repos\Case_1\Case_1\obj\Debug\Case_1.Properties.Resources.resources
+C:\Users\klcbe\source\repos\Case_1\Case_1\obj\Debug\Case_1.csproj.GenerateResource.cache
+C:\Users\klcbe\source\repos\Case_1\Case_1\obj\Debug\Case_1.csproj.CoreCompileInputs.cache
+C:\Users\klcbe\source\repos\Case_1\Case_1\obj\Debug\Case_1.exe
+C:\Users\klcbe\source\repos\Case_1\Case_1\obj\Debug\Case_1.pdb
